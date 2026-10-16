@@ -3,15 +3,19 @@
     "CoreVersion": "2.0.0.0",
     "OrganizationName": "Hello",
     "ClassPlanSource": {
-        "Value": "https://raw.githubusercontent.com/puppy550/classisland-mgmt-cfg/master/{id}/classplans.json",
+        "Value": "https://raw.githubusercontent.com/（把这里替换成你的 GitHub 用户名）/classisland-mgmt-cfg/master/{id}/classplans.json",
         "Version": 2
     },
     "TimeLayoutSource": {
-        "Value": "https://raw.githubusercontent.com/puppy550/classisland-mgmt-cfg/master/timelayouts.json",
+        "Value": "https://raw.githubusercontent.com/（把这里替换成你的 GitHub 用户名）/classisland-mgmt-cfg/master/timelayouts.json",
         "Version": 1
     },
     "SubjectsSource": {
-        "Value": "https://raw.githubusercontent.com/puppy550/classisland-mgmt-cfg/master/subjects.json",
+        "Value": "https://raw.githubusercontent.com/（把这里替换成你的 GitHub 用户名）/classisland-mgmt-cfg/master/subjects.json",
+        "Version": 1
+    },
+    "PolicySource": {
+        "Value": "https://raw.githubusercontent.com/（把这里替换成你的 GitHub 用户名）/classisland-mgmt-cfg/master/policy.json",
         "Version": 1
     }
 }
